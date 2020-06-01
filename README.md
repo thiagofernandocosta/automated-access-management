@@ -2,7 +2,7 @@
 
 ## Functions written in Python and Shell to grant/deny access automatically to user 
 
-### The folder are separated by platforms. 
+### The folders are separated by platforms. To use script is needed to provide the variables. Checkout in each file
 
 * Platforms
     * GitLab
